@@ -1,0 +1,16 @@
+C:\Users\Samuel\Desktop\Assignments\test3\obj\Debug\net5.0\test3.csproj.AssemblyReference.cache
+C:\Users\Samuel\Desktop\Assignments\test3\obj\Debug\net5.0\test3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samuel\Desktop\Assignments\test3\obj\Debug\net5.0\test3.AssemblyInfoInputs.cache
+C:\Users\Samuel\Desktop\Assignments\test3\obj\Debug\net5.0\test3.AssemblyInfo.cs
+C:\Users\Samuel\Desktop\Assignments\test3\obj\Debug\net5.0\test3.csproj.CoreCompileInputs.cache
+C:\Users\Samuel\Desktop\Assignments\test3\bin\Debug\net5.0\test3.exe
+C:\Users\Samuel\Desktop\Assignments\test3\bin\Debug\net5.0\test3.deps.json
+C:\Users\Samuel\Desktop\Assignments\test3\bin\Debug\net5.0\test3.runtimeconfig.json
+C:\Users\Samuel\Desktop\Assignments\test3\bin\Debug\net5.0\test3.runtimeconfig.dev.json
+C:\Users\Samuel\Desktop\Assignments\test3\bin\Debug\net5.0\test3.dll
+C:\Users\Samuel\Desktop\Assignments\test3\bin\Debug\net5.0\ref\test3.dll
+C:\Users\Samuel\Desktop\Assignments\test3\bin\Debug\net5.0\test3.pdb
+C:\Users\Samuel\Desktop\Assignments\test3\obj\Debug\net5.0\test3.dll
+C:\Users\Samuel\Desktop\Assignments\test3\obj\Debug\net5.0\ref\test3.dll
+C:\Users\Samuel\Desktop\Assignments\test3\obj\Debug\net5.0\test3.pdb
+C:\Users\Samuel\Desktop\Assignments\test3\obj\Debug\net5.0\test3.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Samuel\Desktop\Assignments\odun cramers\bin\Debug\net5.0\odun cramers.exe
+C:\Users\Samuel\Desktop\Assignments\odun cramers\bin\Debug\net5.0\odun cramers.deps.json
+C:\Users\Samuel\Desktop\Assignments\odun cramers\bin\Debug\net5.0\odun cramers.runtimeconfig.json
+C:\Users\Samuel\Desktop\Assignments\odun cramers\bin\Debug\net5.0\odun cramers.runtimeconfig.dev.json
+C:\Users\Samuel\Desktop\Assignments\odun cramers\bin\Debug\net5.0\odun cramers.dll
+C:\Users\Samuel\Desktop\Assignments\odun cramers\bin\Debug\net5.0\ref\odun cramers.dll
+C:\Users\Samuel\Desktop\Assignments\odun cramers\bin\Debug\net5.0\odun cramers.pdb
+C:\Users\Samuel\Desktop\Assignments\odun cramers\obj\Debug\net5.0\odun cramers.csproj.AssemblyReference.cache
+C:\Users\Samuel\Desktop\Assignments\odun cramers\obj\Debug\net5.0\odun cramers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samuel\Desktop\Assignments\odun cramers\obj\Debug\net5.0\odun cramers.AssemblyInfoInputs.cache
+C:\Users\Samuel\Desktop\Assignments\odun cramers\obj\Debug\net5.0\odun cramers.AssemblyInfo.cs
+C:\Users\Samuel\Desktop\Assignments\odun cramers\obj\Debug\net5.0\odun cramers.csproj.CoreCompileInputs.cache
+C:\Users\Samuel\Desktop\Assignments\odun cramers\obj\Debug\net5.0\odun cramers.dll
+C:\Users\Samuel\Desktop\Assignments\odun cramers\obj\Debug\net5.0\ref\odun cramers.dll
+C:\Users\Samuel\Desktop\Assignments\odun cramers\obj\Debug\net5.0\odun cramers.pdb
+C:\Users\Samuel\Desktop\Assignments\odun cramers\obj\Debug\net5.0\odun cramers.genruntimeconfig.cache
